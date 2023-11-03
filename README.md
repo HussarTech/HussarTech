@@ -17,8 +17,17 @@ Quick Introduction
 
 Reach out to me on LinkedIn or X to discuss potential collaborations and opportunities.
 
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Floganpaschke%2F)
-![Static Badge](https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Floganpaschke)
+
+<div style="display: inline-block; text-decoration: none;">
+  <a href="https://twitter.com/loganpaschke">
+    <img src="https://img.shields.io/badge/x-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+</div>
+<div style="display: inline-block; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/loganpaschke">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
