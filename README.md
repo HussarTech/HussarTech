@@ -2,7 +2,7 @@
 
 ---
 
-<h3>Hello, I'm Logan Paschke. I'm passionate about creating software that has a meaningful impact on the world and disrupts industries. I have a strong background in AWS and full-stack development. I'm actively pursuing AWS certifications and continuing education in languages to further enhance my expertise.</h3>
+<h3 style="color: white;">Hello, I'm Logan Paschke. I'm passionate about creating software that has a meaningful impact on the world and disrupts industries. I have a strong background in AWS and full-stack development. I'm actively pursuing AWS certifications, building out projects, and continuing my education into languages.</h3>
 
 ---
 
