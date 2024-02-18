@@ -11,7 +11,7 @@ Quick Introduction
 * Currently working on AWS certifications and leading digital projects in the B2B sector.
 * Actively learning Python, HuggingFace, and AWS infrastructure.
 * Open to full-time job opportunities, startups, and projects that leverage my technical and soft skills.
-* In my spare time, I enjoy weightlifting and diving into insightful books. Currently, I'm exploring the works of Nassim Nicholas Taleb and Charles Munger. My primary focus is at the intersection of data, financial markets, business brokerages, and private equity.
+* In my spare time, I enjoy weightlifting and diving into insightful books. Currently, I'm exploring the works of Nassim Nicholas Taleb and Charles Munger. My primary focus is on the intersection of data, financial markets, business brokerages, and private equity.
 
 ---
 
@@ -35,11 +35,12 @@ Languages and Tools
 
 <div align="left">
   <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" style="padding: 5px;">
-  <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding: 5px;">
-  <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding: 5px;">
-  <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding: 5px;">
-  <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding: 5px;">
-  <img alt="AWS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding: 5px;">
+  <img alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding: 5px;">
+  <img alt="Javascript" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding: 5px;">
+  <img alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding: 5px;">
+  <img alt="HTML" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding: 5px;">
+  <img alt="CSS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding: 5px;">
+  <img alt="PHP" width="80px" src="https://simpleicons.org/icons/php.svg" style="padding: 5px;">
 </div>
 
 ---
