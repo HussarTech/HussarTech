@@ -11,7 +11,7 @@ Quick Introduction
 * Currently working on AWS certifications and leading digital projects in the B2B sector.
 * Actively learning Python, HuggingFace, and AWS infrastructure.
 * Open to full-time job opportunities, startups, and projects that leverage my technical and soft skills.
-* In my spare time, I enjoy weightlifting and diving into insightful books. Currently, I'm exploring the works of Nassim Nicholas Taleb and Charles Munger. My primary focus is on the intersection of data, financial markets, business brokerages, and private equity.
+* In my spare time, I enjoy weightlifting and diving into insightful books. Currently, I'm exploring the works of Nassim Nicholas Taleb and Charles Munger. My primary focus is on the intersection of data in relation to social media, influencers, financial markets, business brokerages, and private equity.
 
 ---
 
